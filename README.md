@@ -28,7 +28,7 @@ The project is organized as follows:
 
 ## Requirements
 
-- Python 3.x
+- Python colab3.x
 - Libraries: scikit-learn, XGBoost, pandas, numpy, matplotlib, seaborn
 
 ## Usage
